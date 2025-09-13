@@ -1,0 +1,1 @@
+En este nuevo repositorio se encuentran los talleres trabajados en el primer corte de CNYT donde practicamos sobre las propiedades de los numeros complejos asi como sus diferentes operaciones, opereaciones de vectores y matrices. Tambien sobre matrices hermitianas, unitarias. Vectores propios donde nos dan valores propios, producto tensor, producto interno y mucho mas.
